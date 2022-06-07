@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @josjess- 👀 I’m interested in php and coding using codeigniter framework and Laravel.
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on php frameworks
+- 👋 Hi, I’m @josjess- 👀 I’m interested in flutter development. I am profiecient in php and coding using codeigniter framework and Laravel.
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter Developments
 - 📫 How to reach me @josjess in twitter
 
 <!---
